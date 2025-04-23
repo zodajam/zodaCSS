@@ -1,5 +1,5 @@
-# zodaCSS - CSS stylesheet for styling and coloring 
-As the title suggests, this is a CSS stylesheet intended on styling and coloring your website in an efficient way.
+# zodaCSS - CSS framework for styling and coloring 
+As the title suggests, this is a CSS framework intended on styling and coloring your website in an efficient way.
 
 ## Why use zodaCSS?
 * Free and Open Source
@@ -7,7 +7,7 @@ As the title suggests, this is a CSS stylesheet intended on styling and coloring
     zodaCSS is free and you have the right to view and modify code
 * Lightweight
   
-    Unlike popular CSS frameworks/stylesheets, this is lightweight and easy to install (no npm!)
+    Unlike popular CSS frameworks, this is lightweight and easy to install (no npm!)
 * Support a small developer
   
     I am alone developing this framework for everyone to use!
