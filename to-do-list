@@ -1,1 +1,3 @@
+add padding (normal, left, right, top, bottom, with limit of 128px)
 
+add margin with same as padding
