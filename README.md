@@ -1,5 +1,5 @@
-# zodaCSS - CSS framework for styling and coloring 
-As the title suggests, this is a CSS framework intended on styling and coloring your website in an efficient way.
+# zodaCSS - CSS framework design for simplicity
+As the title suggests, this is a CSS framework focused on simplicity, but still, it's a powerful framework.
 
 ## Why use zodaCSS?
 * Free and Open Source
