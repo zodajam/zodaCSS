@@ -19,4 +19,7 @@ You can install any of the versions <a href="https://github.com/zodajam/zodaCSS/
 You should use the latest version for best performance but for example if you only want color classes, use version-1.
 Alternatively you can download and modify the CSS files for your needs!
 
+# Documentation
+See <a href="https://github.com/zodajam/zodaCSS/blob/main/DOC.md">DOC.md</a> for the documentation on how to use zodaCSS
+
 ## Thank you for using zodaCSS!
