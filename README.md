@@ -3,7 +3,8 @@ As the title suggests, this is a CSS framework intended on styling and coloring 
 
 ## Why use zodaCSS?
 * Free and Open Source
-    zodaCSS is free and you have the right to view modify code
+
+  zodaCSS is free and you have the right to view modify code
 * Lightweight
     Unlike popular CSS frameworks, this is lightweight and easy to install (no npm!)
 * Support a small developer
