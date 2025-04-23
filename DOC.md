@@ -11,6 +11,10 @@ For example, if I want the background color to be dodger blue, I would do
 ```html
 <p class="bg-dodgerblue">The background color of this is dodger blue!</p>
 ```
+The same goes for any HTML element. Here is an example using a <div>
+```html
+<div class="bg-dodgerblue"></div>
+```
 
 # Change position of text
 To change the position of text to either left, center or right, use text-(left, center or middle).
