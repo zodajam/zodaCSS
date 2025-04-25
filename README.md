@@ -1,4 +1,4 @@
-# zodaCSS - CSS framework design for simplicity
+# zodaCSS - CSS framework designed for simplicity
 As the title suggests, this is a CSS framework focused on simplicity, but still, it's a powerful framework.
 
 ## Why use zodaCSS?
